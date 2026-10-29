@@ -1,6 +1,6 @@
 ![Prakash Dalai. Founder of PocketPaw, building the open stack for AI agents that show their work.](banner.png)
 
-I'm building PocketPaw from Bhubaneswar, India. Everything below is open source.
+I'm building PocketPaw from, India. Everything below is open source.
 
 | Project | What it is | Links |
 |---|---|---|
